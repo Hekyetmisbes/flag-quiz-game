@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "846152669556",
+    "firebase_url": "https://flag-quiz-game-default-rtdb.firebaseio.com",
+    "project_id": "flag-quiz-game",
+    "storage_bucket": "flag-quiz-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846152669556:android:20ec45a4afea055d6bb421",
+        "android_client_info": {
+          "package_name": "com.HKGames.FlagQuiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-V4eAFI_skH8ntsiNxrQYhgGBKOJviHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

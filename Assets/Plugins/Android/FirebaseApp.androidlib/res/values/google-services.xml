@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://flag-quiz-game-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">846152669556</string>
+  <string name="google_storage_bucket" translatable="false">flag-quiz-game.appspot.com</string>
+  <string name="project_id" translatable="false">flag-quiz-game</string>
+  <string name="google_api_key" translatable="false">AIzaSyB-V4eAFI_skH8ntsiNxrQYhgGBKOJviHY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB-V4eAFI_skH8ntsiNxrQYhgGBKOJviHY</string>
+  <string name="google_app_id" translatable="false">1:846152669556:android:20ec45a4afea055d6bb421</string>
+</resources>
